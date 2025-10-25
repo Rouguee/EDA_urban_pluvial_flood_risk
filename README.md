@@ -69,3 +69,7 @@ Filling null values to ensure data validity and output accuracy:
 *   **NumPy** (Numerical Operations)
 *   **Matplotlib** / **Seaborn** (Visualization - implied by import)
 *   **Jupyter Notebook** (Environment)
+
+## AUTHOR FT. DISCLAIMER
+**KARYLL MAE O. SANIEL**
+*por academic purposed onleh wews* 
